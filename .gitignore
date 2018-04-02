@@ -1,0 +1,8 @@
+.idea/
+app_loaded.json/
+app_loaded.parquet/
+files/
+registered.json/
+registered.parquet/
+target/
+events.json
